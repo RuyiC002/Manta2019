@@ -1,3 +1,7 @@
+//digital Read with Serial communication
+//2 bottoms control the play/pause of camera movement in unity
+//08/07/2019 By Ruyi Chen
+
 const int buttonPin01 = 6; //left button is connected to 6
 const int buttonPin02 = 7; //right button is connected to 7
 
