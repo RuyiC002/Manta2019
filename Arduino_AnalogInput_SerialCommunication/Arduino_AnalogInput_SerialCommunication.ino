@@ -1,5 +1,5 @@
-//Analog Read with Serial Monitor
-//potentiometer control the lighting in unity
+//Analog Read with Serial communication
+//potentiometer controls the lighting in unity
 //08/07/2019 By Ruyi Chen
 
 int potPin = A0;
